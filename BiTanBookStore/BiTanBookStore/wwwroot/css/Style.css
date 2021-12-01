@@ -1,0 +1,13 @@
+﻿body {
+}
+
+.image{
+    width: 500px;
+    height: 500px;
+}
+
+.di{
+    width: 20px;
+    height: 30px;
+    background-color: red;
+}
